@@ -13,4 +13,5 @@ jobs:
         steps:
             - name: Print conatext
               #run: echo "{{ toJSON(github.event) }}"
-              run: echo "Hei GitHub Demo 1"
+              run: echo "Hei GitHub Demo 2"
+
