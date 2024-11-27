@@ -8,5 +8,4 @@ jobs:
         runs-on: ubuntu-latest
         steps:
             - name: Print conatext
-             # run: echo "{{ toJSON(github.event) }}"
-             run: echo Hello GitHUB
+             run: echo "{{ toJSON(github.event) }}"
