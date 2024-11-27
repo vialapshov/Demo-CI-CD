@@ -20,7 +20,7 @@ jobs:
             #-name: npm install
             run: npm install
           
-          - name: Test app
+          #- name: Test app
             #run: npm run test SKIP_PREFLIGHT_CHECK=true
             #run: npm run test
     lint:
