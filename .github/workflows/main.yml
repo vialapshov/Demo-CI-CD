@@ -1,7 +1,7 @@
 name: Ci CD React v2
 on: push
 jobs:
-    testjob:
+    test:
       runs-on: ubuntu-latest
       defaults:
         run:
@@ -24,6 +24,7 @@ jobs:
             run: npm run test
     lint:
       runs-on: ubuntu-latest
+      needs: test
       steps:
           - name: Get repository code
             #run: echo test ci cd
@@ -38,9 +39,11 @@ jobs:
             run: npm install --save-dev eslint-config-react-app eslint
           
           - name: lint app
-            run: npm run lint
+            #run: npm run lint
+            run: ./node_modules/.bin/eslint --init
     buils:
        runs-on: ubuntu-latest
+       needs: lint
        steps:
           - name: Get repository code
           #run: echo test ci cd
