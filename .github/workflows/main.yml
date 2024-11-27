@@ -33,7 +33,7 @@ jobs:
             #-name: npm ci
             run: npm ci
 
-            - name: lint installation
+          - name: lint installation
             #-name: npm ci
             run: npm cinpm install --save-dev eslint-config-react-app eslint
           
