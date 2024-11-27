@@ -9,4 +9,4 @@ jobs:
         steps:
             - name: Print conatext
               #run: echo "{{ toJSON(github.event) }}"
-              run: echo "Hei GitHub"
+              run: echo "Hei GitHub Demo 2"

@@ -1,0 +1,282 @@
+[33mcommit 323df6fbd9317a42d8a7b52c204e2496ddbd52fb[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mdev[m[33m, [m[1;31morigin/dev[m[33m)[m
+Author: vialapshov <via.lapshov@gmail.com>
+Date:   Wed Nov 27 15:10:56 2024 +0100
+
+    Dev demo1
+
+[33mcommit 2a3f5b16613e75976bd5a5ab1d994ab75c84bca0[m
+Author: vialapshov <via.lapshov@gmail.com>
+Date:   Wed Nov 27 15:07:46 2024 +0100
+
+    Dev demo1
+
+[33mcommit c5b38028ca4735ac601da1501835e847a7e5feb9[m
+Author: vialapshov <via.lapshov@gmail.com>
+Date:   Wed Nov 27 14:41:57 2024 +0100
+
+    Update tojson.yml
+
+[33mcommit 6a082168c5a0f131b21db8db42984b168968c1e7[m
+Author: vialapshov <via.lapshov@gmail.com>
+Date:   Wed Nov 27 14:41:03 2024 +0100
+
+    Update tojson.yml
+
+[33mcommit 77ad6e64eadf99a3528145a4ef534642b5e6d5d0[m
+Author: vialapshov <via.lapshov@gmail.com>
+Date:   Wed Nov 27 14:40:29 2024 +0100
+
+    Update tojson.yml
+
+[33mcommit ab0aff58391c20d791587cfe323f6cea3b17c1ec[m
+Author: vialapshov <101179015+vialapshov@users.noreply.github.com>
+Date:   Wed Nov 27 14:28:18 2024 +0100
+
+    Update tojson.yml
+
+[33mcommit e03463b7473a10f90c609321beed27ec7463e5dc[m
+Author: vialapshov <via.lapshov@gmail.com>
+Date:   Wed Nov 27 14:05:52 2024 +0100
+
+    Update tojson.yml
+
+[33mcommit 5f5ad39ea914d1b3a241a78f561f40d9f3038532[m
+Author: vialapshov <via.lapshov@gmail.com>
+Date:   Wed Nov 27 14:04:47 2024 +0100
+
+    Update tojson.yml
+
+[33mcommit ee1a1465c2515ade9edd3d63a5946a07d863630e[m
+Author: vialapshov <via.lapshov@gmail.com>
+Date:   Wed Nov 27 14:03:09 2024 +0100
+
+    Update tojson.yml
+
+[33mcommit 3a7af4a0cefc7c3ff5b27349800e69adf34ee664[m
+Author: vialapshov <via.lapshov@gmail.com>
+Date:   Wed Nov 27 14:02:12 2024 +0100
+
+    toJSON
+
+[33mcommit 485625cf0dd298735345407dfa27a8305bbf6461[m
+Author: vialapshov <via.lapshov@gmail.com>
+Date:   Wed Nov 27 13:50:19 2024 +0100
+
+    Update main.yml
+
+[33mcommit 286536f0744fddd6bf86fee3be1996e3173501ef[m
+Author: vialapshov <via.lapshov@gmail.com>
+Date:   Wed Nov 27 13:46:38 2024 +0100
+
+    Update main.yml
+
+[33mcommit 904a44d0bafd4eed21f93470eca1da2ca6d687ec[m
+Author: vialapshov <via.lapshov@gmail.com>
+Date:   Wed Nov 27 13:45:32 2024 +0100
+
+    Update main.yml
+
+[33mcommit 8ed4cb1c5c98a6de83a2aa55d0d000cc7b0b148f[m
+Author: vialapshov <via.lapshov@gmail.com>
+Date:   Wed Nov 27 13:43:00 2024 +0100
+
+    Update App.test.js
+
+[33mcommit 43ae0552efdcc87e81e86f07072200e23caab4ba[m
+Author: vialapshov <via.lapshov@gmail.com>
+Date:   Wed Nov 27 13:40:29 2024 +0100
+
+    Update App.test.js
+
+[33mcommit 9433407e7386c9dce3a9f3dcbabc0b78edfad3f7[m
+Author: vialapshov <via.lapshov@gmail.com>
+Date:   Wed Nov 27 13:37:26 2024 +0100
+
+    Update App.test.js
+
+[33mcommit 59108dd858f3828f3c85d4ce2342acbbd1297136[m
+Author: vialapshov <via.lapshov@gmail.com>
+Date:   Wed Nov 27 13:33:11 2024 +0100
+
+    Update App.test.js
+
+[33mcommit 92349e0e8eea040f0619b5b633cab9810d3a63ac[m
+Author: vialapshov <via.lapshov@gmail.com>
+Date:   Wed Nov 27 13:27:53 2024 +0100
+
+    Update App.test.js
+
+[33mcommit 9f00403f579899003cdfea24eb78096ec6f67512[m
+Author: vialapshov <via.lapshov@gmail.com>
+Date:   Wed Nov 27 13:26:12 2024 +0100
+
+    Update App.test.js
+
+[33mcommit 3d3b9f536f53b16ff36af19f2f3efa8dc37e7d57[m
+Author: vialapshov <via.lapshov@gmail.com>
+Date:   Wed Nov 27 13:22:03 2024 +0100
+
+    Update main.yml
+
+[33mcommit 0b29ba8cafb60358025faecc87330cdd42734a1c[m
+Author: vialapshov <via.lapshov@gmail.com>
+Date:   Wed Nov 27 13:20:07 2024 +0100
+
+    Update main.yml
+
+[33mcommit ab7cd00d14e9d51735b3ea37837b6e96742346ac[m
+Author: vialapshov <via.lapshov@gmail.com>
+Date:   Wed Nov 27 13:17:00 2024 +0100
+
+    Update package.json
+
+[33mcommit b0fec2f2534623c7a27a94cf7de991ed0c6b357a[m
+Merge: b6dc585 7f9b846
+Author: vialapshov <via.lapshov@gmail.com>
+Date:   Wed Nov 27 13:13:54 2024 +0100
+
+    Merge branch 'main' of https://github.com/vialapshov/demo-ci-cd
+
+[33mcommit b6dc58504fb91c94a960b1266c76cc7e482504fc[m
+Author: vialapshov <via.lapshov@gmail.com>
+Date:   Wed Nov 27 13:13:42 2024 +0100
+
+    Update main.yml
+
+[33mcommit 7f9b846ba5867e38d0f1e0db3826b49f5dccbff2[m
+Author: vialapshov <101179015+vialapshov@users.noreply.github.com>
+Date:   Wed Nov 27 13:08:03 2024 +0100
+
+    Create deployment.yml
+
+[33mcommit ecef3fc65d0736ddeb8fd8f99c86d1c52d7bef03[m
+Author: vialapshov <via.lapshov@gmail.com>
+Date:   Wed Nov 27 13:02:45 2024 +0100
+
+    Lint
+
+[33mcommit 993d43fa1b05bee08d3d83fa7dfb421bde41b8f7[m
+Author: vialapshov <via.lapshov@gmail.com>
+Date:   Wed Nov 27 12:58:26 2024 +0100
+
+    Lint
+
+[33mcommit 601675955dfbc4640e2cf460c2d2fc35d17e7a5b[m
+Author: vialapshov <via.lapshov@gmail.com>
+Date:   Wed Nov 27 12:56:51 2024 +0100
+
+    Lint
+
+[33mcommit e052ed1cf2744dfe7736f45b5372d43ee3596946[m
+Author: vialapshov <via.lapshov@gmail.com>
+Date:   Wed Nov 27 12:55:38 2024 +0100
+
+    Update main.yml
+
+[33mcommit aec58272c63f0d24bc1a8024fc3cd3f391060c30[m
+Author: vialapshov <via.lapshov@gmail.com>
+Date:   Wed Nov 27 12:52:50 2024 +0100
+
+    Change build
+
+[33mcommit 3b86a6adb4214680e7bdd84e43f4a0fb228537db[m
+Author: vialapshov <via.lapshov@gmail.com>
+Date:   Wed Nov 27 12:46:40 2024 +0100
+
+    apply
+
+[33mcommit 2c3444d174621682f94375630c46bd6c2301d46b[m
+Author: vialapshov <via.lapshov@gmail.com>
+Date:   Wed Nov 27 12:44:40 2024 +0100
+
+    update
+
+[33mcommit ec82827dcd5755a3499b5a3ee7085c3a0439cc13[m
+Author: vialapshov <via.lapshov@gmail.com>
+Date:   Wed Nov 27 11:36:15 2024 +0100
+
+    Update App.test.js
+
+[33mcommit fa060a3f64c1ba37d99c34e0a8e3f25884690ac1[m
+Author: vialapshov <via.lapshov@gmail.com>
+Date:   Wed Nov 27 11:35:20 2024 +0100
+
+    Update App.test.js
+
+[33mcommit 47ab00ad1f49738529e1ab48054459c3dcc46038[m
+Author: vialapshov <via.lapshov@gmail.com>
+Date:   Wed Nov 27 11:31:50 2024 +0100
+
+    Update App.test.js
+
+[33mcommit 702bb4ad35d39b85218927e7fcaade4a7d70ed38[m
+Author: vialapshov <via.lapshov@gmail.com>
+Date:   Wed Nov 27 11:28:35 2024 +0100
+
+    Update App.test.js
+
+[33mcommit 4421d64ed1df800d206fe51ab21d24bc12239f92[m
+Author: vialapshov <via.lapshov@gmail.com>
+Date:   Wed Nov 27 11:08:32 2024 +0100
+
+    Update main.yml
+
+[33mcommit 26ea33cf29b221ffbb0095e01d2f91bc8d819083[m
+Author: vialapshov <via.lapshov@gmail.com>
+Date:   Wed Nov 27 11:05:06 2024 +0100
+
+    Delete demo-ci-cd.yml
+
+[33mcommit 9b96f349d31e0583466d34233130c281be89e4d5[m
+Author: vialapshov <101179015+vialapshov@users.noreply.github.com>
+Date:   Wed Nov 27 11:03:55 2024 +0100
+
+    Create main.yml
+
+[33mcommit 89438e9bb4cf0ebeb3c1ccabbad3158b4cdf9b8b[m
+Author: vialapshov <via.lapshov@gmail.com>
+Date:   Wed Nov 27 10:58:08 2024 +0100
+
+    apply
+
+[33mcommit ce7c7eefd94af01f30b840d3144cbabb9fe01958[m
+Author: vialapshov <via.lapshov@gmail.com>
+Date:   Tue Nov 26 22:59:49 2024 +0100
+
+    RunDemo
+
+[33mcommit 84cf43e51fa51845f7ec92644fd7070186a217e6[m
+Author: vialapshov <via.lapshov@gmail.com>
+Date:   Tue Nov 26 22:53:58 2024 +0100
+
+    RunDemo
+
+[33mcommit 9de641b36ff45125d3e32b2a6b9c113d13eb3170[m
+Author: vialapshov <via.lapshov@gmail.com>
+Date:   Tue Nov 26 22:52:42 2024 +0100
+
+    RunDemo
+
+[33mcommit 49ccb1fac946eb7b234292ec1bf2f21ba1f438e2[m
+Author: vialapshov <via.lapshov@gmail.com>
+Date:   Tue Nov 26 22:50:50 2024 +0100
+
+    first commit
+
+[33mcommit 3528cae30ace07712e5c646c80fec14a2e9b2f1e[m
+Author: vialapshov <101179015+vialapshov@users.noreply.github.com>
+Date:   Tue Nov 26 22:00:55 2024 +0100
+
+    Create blank.yml
+
+[33mcommit 92f22cfa675a91642f91fa920f150c5f8d44d512[m
+Author: vialapshov <via.lapshov@gmail.com>
+Date:   Tue Nov 26 21:58:39 2024 +0100
+
+    first commit
+
+[33mcommit 101b67ff0b67cbfd3c24fe3a5ce2edb2be671fd8[m
+Author: vialapshov <via.lapshov@gmail.com>
+Date:   Tue Nov 26 15:38:00 2024 +0100
+
+    first commit
