@@ -22,9 +22,8 @@ jobs:
           
           - name: Test app
             run: npm run test
-    link:
+    lint:
       runs-on: ubuntu-latest
-      
       steps:
           - name: Get repository code
             #run: echo test ci cd
@@ -33,6 +32,10 @@ jobs:
           - name: npm installation
             #-name: npm ci
             run: npm ci
+
+            - name: lint installation
+            #-name: npm ci
+            run: npm cinpm install --save-dev eslint-config-react-app eslint
           
           - name: lint app
             run: npm run lint
