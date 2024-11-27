@@ -1,11 +1,16 @@
 name: Print Pull Request Contaxt
 on:
-    workflow_dispatch: 
-    pull_request: 
-        types: [opened, edited, reopened]
+    push:
+      branches:
+        - dev 
+        
+    #workflow_dispatch: 
+    #pull_request: 
+    #    types: [opened, edited, reopened]
 jobs:
     print:
         runs-on: ubuntu-latest
         steps:
             - name: Print conatext
-             run: echo "{{ toJSON(github.event) }}"
+              #run: echo "{{ toJSON(github.event) }}"
+              run: echo "Hei GitHub Demo 1"
