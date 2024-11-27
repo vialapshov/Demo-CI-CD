@@ -1,0 +1,24 @@
+name: Ci CD Readct
+on: push
+jobs:
+    testjob:
+      runs-on: ubuntu-latest
+      defaults:
+        run:
+          shell: bash
+          #working-directory: ./src
+          
+      steps:
+          - name: Show local dirrectory
+            run:  ls
+
+          - name: Get repository code
+            #run: echo test ci cd
+            uses: actions/checkout@v4
+          
+          - name: npm installation
+            #-name: npm ci
+            run: npm install
+          
+          - name: Test app
+            run: npm run test
