@@ -1,4 +1,4 @@
-name: Ci CD Readct
+name: Ci CD React
 on: push
 jobs:
     testjob:
