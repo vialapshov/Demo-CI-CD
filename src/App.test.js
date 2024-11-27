@@ -1,10 +1,8 @@
-import React, { Component, PropTypes } from 'react';
-import { render } from 'react-dom'
+import { render, screen } from '@testing-library/react';
 import App from './App';
 
-ReactDOM.render(
-  <Router>
-      <App />
-  </Router>,
-  document.getElementById('root')
-);
+test('renders learn react link', () => {
+  render(<App />);
+  const linkElement = screen.getByText(/learn react/i);
+  expect(linkElement).toBeInTheDocument();
+});
