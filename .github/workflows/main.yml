@@ -1,4 +1,4 @@
-name: Ci CD React
+name: Ci CD React v2
 on: push
 jobs:
     testjob:
@@ -18,7 +18,37 @@ jobs:
           
           - name: npm installation
             #-name: npm ci
-            run: npm install
+            run: npm ci
           
           - name: Test app
             run: npm run test
+    link:
+      runs-on: ubuntu-latest
+      
+      steps:
+          - name: Get repository code
+            #run: echo test ci cd
+            uses: actions/checkout@v4
+          
+          - name: npm installation
+            #-name: npm ci
+            run: npm ci
+          
+          - name: lint app
+            run: npm run lint
+    buils:
+       runs-on: ubuntu-latest
+       steps:
+          - name: Get repository code
+          #run: echo test ci cd
+            uses: actions/checkout@v4
+        
+          - name: npm installation
+            #-name: npm ci
+            run: npm ci
+          
+          - name: Build
+            run: npm run build
+
+          - name: Deploy..
+            run: echo Deploy
