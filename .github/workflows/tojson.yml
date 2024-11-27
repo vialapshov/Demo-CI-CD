@@ -12,6 +12,6 @@ jobs:
         runs-on: ubuntu-latest
         steps:
             - name: Print conatext
-              #run: echo "{{ toJSON(github.event) }}"
-              run: echo "Hei GitHub Demo 2"
+              run: echo "${{ toJSON(github.event) }}"
+              #run: echo "Hei GitHub Demo 2"
 
