@@ -1,4 +1,4 @@
-name: Upload - Download
+oname: Upload - Download
 on:
   push:
     #branches:
@@ -21,13 +21,13 @@ jobs:
       - name: upload folder
         uses: actions/upload-artifact@v3
         with:
-          path: public
-          key: public
+          path: demo
+          key: demo
 
   deploy:
     runs-on: ubuntu-latest
     steps:
-      - name: public
+      - name: download
         uses: actions/download-artifact@v3
         with:
-          name: public
+          name: demo
