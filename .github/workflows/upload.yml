@@ -22,7 +22,7 @@ jobs:
         uses: actions/upload-artifact@v3
         with:
           path: demo
-          key: demofiles
+          name: demofiles
 
   deploy:
     runs-on: ubuntu-latest
