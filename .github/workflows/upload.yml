@@ -1,4 +1,4 @@
-name: Upload - Download
+oname: Upload - Download
 on:
   push:
     #branches:
@@ -30,4 +30,4 @@ jobs:
       - name: download
         uses: actions/download-artifact@v4
         with:
-          name: text.txt
+          name: demo/text.txt
