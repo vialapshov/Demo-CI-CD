@@ -1,4 +1,4 @@
-oname: Upload - Download
+name: Upload - Download
 on:
   push:
     #branches:
