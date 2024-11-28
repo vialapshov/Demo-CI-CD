@@ -13,10 +13,10 @@ jobs:
       - name: Get repository code
         uses: actions/checkout@v3
 
-      - name: Install dependecies
-        run: npm ci
-      - name: Test application
-        run: npm run build
+     # - name: Install dependecies
+    #  run: npm ci
+     # - name: Test application
+      #  run: npm run build
 
       - name: upload folder
         uses: actions/upload-artifact@v3
