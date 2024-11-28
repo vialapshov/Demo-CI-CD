@@ -21,13 +21,13 @@ jobs:
       - name: upload folder
         uses: actions/upload-artifact@v3
         with:
-          path: uploaddemo
-          key: uploaddemo
+          path: public
+          key: public
 
   deploy:
     runs-on: ubuntu-latest
     steps:
-      - name: download
+      - name: public
         uses: actions/download-artifact@v3
         with:
-          name: uploaddemo
+          name: public
